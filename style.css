@@ -14,10 +14,12 @@ header {
 }
 
 section {
-    margin: 20px;
-    padding: 10px 0;
-    text-align: center;
-}
+    background-color: white;
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+   }
 
 h2 {
     color: #333;
