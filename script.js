@@ -1,7 +1,7 @@
 // Mostrar mensaje de bienvenida
-document.addEventListener('DOMContentLoaded', function() {
-    alert('¡Bienvenido a mi portafolio personal!');
-});
+//document.addEventListener('DOMContentLoaded', function() {
+    //alert('¡Bienvenido a mi portafolio personal!');
+//});
 
 // Validación de formulario
 const form = document.getElementById('contactForm');

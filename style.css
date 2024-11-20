@@ -7,14 +7,14 @@ body {
 } 
 
 header {
-    background-color: rgba(4, 188, 249, 0.199);
+    background-color: #CCCCFF;
     color: black;
     padding: 10px 0;
     text-align: center;
 }
 
 section {
-    margin: 20px;
+    margin: 0;
 }
 
 h2 {
@@ -33,7 +33,7 @@ li {
 }
 
 footer {
-    background-color:  rgba(4, 188, 249, 0.199);
+    background-color: #CCCCFF;
     color: black;
     text-align: center;
     padding: 10px 0;
