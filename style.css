@@ -14,8 +14,9 @@ header {
 }
 
 section {
+    width: 80%;
     background-color: white;
-    margin: 5px;
+    margin: 1em 0;
     padding: 1em;
     border: 1px solid #ddd;
     border-radius: 5px;
