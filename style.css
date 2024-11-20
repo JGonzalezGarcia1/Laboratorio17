@@ -14,9 +14,9 @@ header {
 }
 
 section {
-    width: 80%;
+    width: 60%;
     background-color: white;
-    margin: 1em 0;
+    margin: 2em 0;
     padding: 1em;
     border: 1px solid #ddd;
     border-radius: 5px;
